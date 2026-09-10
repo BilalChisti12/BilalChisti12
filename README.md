@@ -31,14 +31,12 @@ I'm a **Computer Science and Engineering student** with hands-on experience in *
 
 ---
 
----
-
 ## GitHub Contributions
 
 <p align="center">
   <img
-    src="https://github.com/users/BilalChisti12/contributions"
-    alt="GitHub Contribution Heatmap"
+    src="https://github-commit-map.yzzi.icu/api/contributions/BilalChisti12/svg"
+    alt="GitHub Contributions"
     width="100%"
   />
 </p>
