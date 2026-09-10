@@ -108,21 +108,6 @@ I'm a **Computer Science and Engineering student** with hands-on experience in *
 
 ---
 
-## What I Work With
-
-```text
-Java              ████████████████████
-Data Structures   ███████████████████░
-React             ██████████████████░░
-Node.js           ██████████████████░░
-JavaScript        ██████████████████░░
-MongoDB / SQL     █████████████████░░░
-Computer Networks ████████████████░░░░
-Git & GitHub      ██████████████████░░
-```
-
----
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=BilalChisti12&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=BilalChisti12&theme=blue-green&hide_border=false)<br/>
