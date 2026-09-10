@@ -115,11 +115,15 @@ Git & GitHub      ██████████████████░░
 ## Problem Solving
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/GV2023006647?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats"/>
+  <img
+    src="https://leetcard.jacoblin.cool/GV2023006647?theme=dark&ext=heatmap&border=0&radius=16&animation=false&cache=0"
+    alt="LeetCode Stats"
+    width="900"
+  />
 </p>
 
 <p align="center">
-  <b>200+ Problems Solved on LeetCode</b>
+  <strong>200+ Problems Solved on LeetCode</strong>
 </p>
 
 ---
