@@ -30,17 +30,15 @@ I'm a **Computer Science and Engineering student** with hands-on experience in *
 </p>
 
 ---
-
 ## GitHub Contributions
 
 <p align="center">
   <img
-    src="https://github-commit-map.yzzi.icu/api/contributions/BilalChisti12/svg"
-    alt="GitHub Contributions"
+    src="https://gh-heat.anishroy.com/api/BilalChisti12/svg?theme=green&darkMode=true&transparent=true"
+    alt="GitHub Contribution Heatmap"
     width="100%"
   />
 </p>
-
 ---
 
 ## Tech Stack
