@@ -31,6 +31,20 @@ I'm a **Computer Science and Engineering student** with hands-on experience in *
 
 ---
 
+---
+
+## GitHub Contributions
+
+<p align="center">
+  <img
+    src="https://github.com/users/BilalChisti12/contributions"
+    alt="GitHub Contribution Heatmap"
+    width="100%"
+  />
+</p>
+
+---
+
 ## Tech Stack
 
 ### Languages
