@@ -135,21 +135,6 @@ Git & GitHub      ██████████████████░░
   <img width="45%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=BilalChisti12&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </p>
 
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BilalChisti12&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BilalChisti12&theme=github-compact&hide_border=true" alt="Contribution Graph"/>
-</p>
 
 ---
 
