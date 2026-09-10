@@ -48,7 +48,7 @@ I'm a **Computer Science and Engineering student** with hands-on experience in *
   <img
     src="https://leetcard.jacoblin.cool/GV2023006647?theme=dark&ext=heatmap&border=0&radius=16&animation=false&cache=0"
     alt="LeetCode Stats"
-    width="650"
+    width="550"
   />
 </p>
 
