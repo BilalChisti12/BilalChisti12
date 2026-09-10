@@ -128,12 +128,12 @@ Git & GitHub      ██████████████████░░
 <p align="center">
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=BilalChisti12&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"
+    src="https://github-readme-stats.vercel.app/api?username=BilalChisti12&show_icons=true&theme=transparent&hide_border=true"
     alt="GitHub Stats"
   />
   <img
     width="49%"
-    src="https://streak-stats.demolab.com/?user=BilalChisti12&theme=transparent&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=BilalChisti12&theme=dark&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
@@ -141,7 +141,7 @@ Git & GitHub      ██████████████████░░
 <p align="center">
   <img
     width="45%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilalChisti12&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilalChisti12&layout=compact&theme=transparent&hide_border=true"
     alt="Top Languages"
   />
 </p>
