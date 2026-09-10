@@ -33,7 +33,11 @@ I'm a **Computer Science and Engineering student** with hands-on experience in *
 ## GitHub Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BilalChisti12/BilalChisti12/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img
+    src="https://gh-heat.anishroy.com/api/BilalChisti12/svg?theme=green&darkMode=true&transparent=true&v=4"
+    alt="GitHub Contribution Heatmap"
+    width="100%"
+  />
 </p>
 
 ---
