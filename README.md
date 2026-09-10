@@ -40,6 +40,17 @@ I'm a **Computer Science and Engineering student** with hands-on experience in *
   />
 </p>
 
+---
+
+## LeetCode
+
+<p align="center">
+  <img
+    src="https://leetcard.jacoblin.cool/GV2023006647?theme=dark&ext=heatmap&border=0&radius=16&animation=false&cache=0"
+    alt="LeetCode Stats"
+    width="650"
+  />
+</p>
 
 ---
 
@@ -109,22 +120,6 @@ MongoDB / SQL     █████████████████░░░
 Computer Networks ████████████████░░░░
 Git & GitHub      ██████████████████░░
 ```
-
----
-
-## Problem Solving
-
-<p align="center">
-  <img
-    src="https://leetcard.jacoblin.cool/GV2023006647?theme=dark&ext=heatmap&border=0&radius=16&animation=false&cache=0"
-    alt="LeetCode Stats"
-    width="900"
-  />
-</p>
-
-<p align="center">
-  <strong>200+ Problems Solved on LeetCode</strong>
-</p>
 
 ---
 
