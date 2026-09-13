@@ -15,8 +15,6 @@ I'm a **Computer Science and Engineering student** with hands-on experience in *
 
 ###
 
-<div style="border: 1px solid rgb(255, 255, 255); border-radius: 10px; padding: 8px;">
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -31,11 +29,8 @@ I'm a **Computer Science and Engineering student** with hands-on experience in *
   <img
     alt="pacman contribution graph"
     src="https://raw.githubusercontent.com/BilalChisti12/BilalChisti12/pacman-output/galaga-contribution-graph.svg?game=galaga"
-    width="100%"
   />
 </picture>
-
-</div>
 
 ###
 
