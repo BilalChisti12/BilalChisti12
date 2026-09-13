@@ -50,7 +50,7 @@ I'm a **Computer Science and Engineering student** with hands-on experience in *
 
 <p align="center">
   <img
-    src="https://leetcard.jacoblin.cool/GV2023006647?theme=transparent&font=Sanchez&ext=heatmap"
+    src="https://leetcard.jacoblin.cool/GV2023006647?theme=transparent&font=Sanchez&colors=%230d1117%2C%23ffffff%2C%20%23ffffff&ext=heatmap"
     alt="LeetCode Stats"
     width="500"
   />
