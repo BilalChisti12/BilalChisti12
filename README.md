@@ -1,12 +1,6 @@
-<p align="center">
-  <img src="GithubProfileBanner.gif" width="100%" alt="Profile Banner"/>
-</p>
-
 <div align="center">
-  <h1>Hi there, I'm Mohammed Bilal Sharief! <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMy9/giphy.gif" width="30px"></h1>
-  
-  <strong>Computer Science & Engineering Student | Full-Stack Developer | GATE 2026 Qualified</strong>
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Mohammed%20Bilal%20Sharief&fontSize=50&animation=fadeIn&fontAlignY=38&desc=CS%20%26%20Engineering%20Student%20%7C%20Full-Stack%20Developer%20%7C%20GATE%202026&descAlignY=55&descAlign=50" width="100%" alt="Profile Banner"/>
+
   <p>
     <em>Building. Learning. Solving. Repeating.</em>
   </p>
