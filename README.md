@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=150&amp;section=header" width="100%" alt="Wavy Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=100&amp;section=header" width="100%" alt="Wavy Banner"/>
 
   <h1>Hi there, I'm Mohammed Bilal Sharief! <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMy9/giphy.gif" width="30px"></h1>
   
