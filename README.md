@@ -15,7 +15,7 @@ I'm a **Computer Science and Engineering student** with hands-on experience in *
 
 ###
 
-<div style="border: 1px solid rgba(255, 255, 255, 1); border-radius: 10px; padding: 8px;">
+<div style="border: 1px solid rgb(255, 255, 255); border-radius: 10px; padding: 8px;">
 
 <picture>
   <source
