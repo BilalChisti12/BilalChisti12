@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="GithubProfileBanner.gif" width="100%" alt="Profile Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Mohammed%20Bilal%20Sharief&fontSize=50&animation=fadeIn" width="100%" alt="Profile Banner"/>
 </p>
 
 <div align="center">
