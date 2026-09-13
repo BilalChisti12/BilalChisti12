@@ -14,7 +14,7 @@ I'm a **Computer Science and Engineering student** with hands-on experience in *
 
 ## Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/mohammedbilalsharief">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -30,15 +30,27 @@ I'm a **Computer Science and Engineering student** with hands-on experience in *
 </p>
 
 ---
-## GitHub Contributions
 
-<p align="center">
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BilalChisti12/BilalChisti12/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BilalChisti12/BilalChisti12/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BilalChisti12/BilalChisti12/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
+
+###
+
+<!-- ## GitHub Contributions -->
+
+<!-- <p align="center">
   <img
     src="https://gh-heat.anishroy.com/api/BilalChisti12/svg?theme=green&darkMode=true&transparent=true&v=4"
     alt="GitHub Contribution Heatmap"
     width="100%"
   />
-</p>
+</p> -->
 
 ---
 
@@ -58,40 +70,40 @@ I'm a **Computer Science and Engineering student** with hands-on experience in *
 
 ### Languages
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,ts,c,cs,html,css" alt="Languages"/>
 </p>
 
 ### Frontend
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,bootstrap,vite" alt="Frontend Technologies"/>
 </p>
 
 ### Backend & APIs
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Backend Technologies"/>
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
   <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" alt="REST APIs"/>
 </p>
 
 ### Databases
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite,supabase" alt="Databases"/>
 </p>
 
 ### Cloud, DevOps & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,vercel,docker,git,github,gitlab" alt="Cloud and DevOps"/>
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
   <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
@@ -99,7 +111,7 @@ I'm a **Computer Science and Engineering student** with hands-on experience in *
 
 ### Testing & Other Technologies
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
