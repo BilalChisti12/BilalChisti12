@@ -132,9 +132,9 @@ I'm a **Computer Science and Engineering student** with hands-on experience in *
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=BilalChisti12&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=BilalChisti12&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=BilalChisti12&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=BilalChisti12&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=BilalChisti12&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=BilalChisti12&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 
