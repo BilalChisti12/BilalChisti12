@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="GithubProfileBanner.gif" width="100%" alt="Top Banner"/>
+</p>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Mohammed%20Bilal%20Sharief!&fontSize=35&fontAlignY=35&desc=Computer%20Science%20%26%20Engineering%20Student%20%7C%20Full-Stack%20Developer%20%7C%20GATE%202026%20Qualified&descAlignY=55&descSize=15&animation=fadeIn" width="100%" alt="Profile Banner"/>
 
