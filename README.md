@@ -79,7 +79,7 @@ I'm a **Computer Science and Engineering student** with hands-on experience in *
 
 ## Tech Stack
 
-### Languages
+<p align="center">### Languages</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,ts,c,cs,html,css" alt="Languages"/>
