@@ -50,9 +50,9 @@ I'm a **Computer Science and Engineering student** with hands-on experience in *
 
 <p align="center">
   <img
-    src="https://leetcard.jacoblin.cool/GV2023006647?theme=dark&ext=heatmap&border=0&radius=16&animation=false&cache=0"
+    src="https://leetcard.jacoblin.cool/GV2023006647?theme=transparent&font=Sanchez&ext=heatmap"
     alt="LeetCode Stats"
-    width="450"
+    width="500"
   />
 </p>
 
