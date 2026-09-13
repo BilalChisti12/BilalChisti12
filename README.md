@@ -68,6 +68,23 @@ I'm a final year **Computer Science and Engineering student** passionate about b
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
   <img src="https://img.shields.io/badge/JavaFX-5382A1?style=for-the-badge" alt="JavaFX"/>
 </div>
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BilalChisti12/BilalChisti12/pacman-output/galaga-contribution-graph-dark.svg?game=galaga"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BilalChisti12/BilalChisti12/pacman-output/galaga-contribution-graph.svg?game=galaga"/>
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BilalChisti12/BilalChisti12/pacman-output/galaga-contribution-graph.svg?game=galaga"/>
+  </picture>
+</div>
+
+<br/>
+
+<h2 align="center">🧩 Problem Solving</h2>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/GV2023006647?theme=transparent&font=Sanchez&colors=%230d1117%2C%23ffffff%2C%20%23ffffff&ext=heatmap" alt="LeetCode Stats" width="500" />
+</p>
 
 <br/>
 
@@ -80,14 +97,6 @@ I'm a final year **Computer Science and Engineering student** passionate about b
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=BilalChisti12&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-</p>
-
-<br/>
-
-<h2 align="center">🧩 Problem Solving</h2>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/GV2023006647?theme=transparent&font=Sanchez&colors=%230d1117%2C%23ffffff%2C%20%23ffffff&ext=heatmap" alt="LeetCode Stats" width="500" />
 </p>
 
 <br/>
