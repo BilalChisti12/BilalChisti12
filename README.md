@@ -1,10 +1,13 @@
+<p align="center">
+  <img src="GithubProfileBanner.gif" width="100%" alt="Profile Banner"/>
+</p>
+
 # Hi, I'm Mohammed Bilal Sharief
 
 ### Computer Science & Engineering Student · Full-Stack Developer · GATE 2026 Qualified
 
-I'm a **Computer Science and Engineering student** with hands-on experience in **full-stack development**, a strong foundation in **Data Structures & Algorithms**, and an interest in **computer networks and software engineering**.
+I'm a final year **Computer Science and Engineering student** with hands-on experience in **full-stack development**, a strong foundation in **Data Structures & Algorithms**, and an interest in **computer networks and software engineering**.
 
-- Solving problems and strengthening my fundamentals through **200+ LeetCode problems**
 - Building practical **full-stack web applications**
 - Exploring **computer networks, backend systems, and scalable applications**
 - Continuously improving my understanding of **Computer Science fundamentals**
