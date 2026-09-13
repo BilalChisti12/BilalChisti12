@@ -46,33 +46,28 @@ I'm a final year **Computer Science and Engineering student** passionate about b
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
-<p align="center">
+<div align="center">
   <strong>Languages</strong><br/>
   <img src="https://skillicons.dev/icons?i=java,js,ts,c,cs,html,css" alt="Languages"/><br/><br/>
-  
   <strong>Frontend</strong><br/>
   <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,bootstrap,vite" alt="Frontend Technologies"/><br/><br/>
-  
   <strong>Backend & APIs</strong><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Backend Technologies"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
   <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" alt="REST APIs"/><br/><br/>
-  
   <strong>Databases</strong><br/>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite,supabase" alt="Databases"/><br/><br/>
-  
   <strong>Cloud & DevOps</strong><br/>
   <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,vercel,docker,git,github,gitlab" alt="Cloud and DevOps"/><br/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
   <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/><br/><br/>
-  
   <strong>Testing & Tools</strong><br/>
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
   <img src="https://img.shields.io/badge/JavaFX-5382A1?style=for-the-badge" alt="JavaFX"/>
-</p>
+</div>
 
 <br/>
 
