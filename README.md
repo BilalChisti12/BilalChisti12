@@ -95,9 +95,6 @@ I'm a **Computer Science and Engineering student** with hands-on experience in *
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Backend Technologies"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
   <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" alt="REST APIs"/>
 </p>
