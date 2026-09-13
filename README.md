@@ -46,6 +46,7 @@ I'm a final year **Computer Science and Engineering student** passionate about b
 
 <br/>
 
+<h2 align="center">GitHub</h2>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BilalChisti12/BilalChisti12/pacman-output/galaga-contribution-graph-dark.svg?game=galaga"/>
@@ -105,14 +106,6 @@ I'm a final year **Computer Science and Engineering student** passionate about b
 <br/>
 
 <h2 align="center">🕹️ Contribution Activity</h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BilalChisti12/BilalChisti12/pacman-output/galaga-contribution-graph-dark.svg?game=galaga"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BilalChisti12/BilalChisti12/pacman-output/galaga-contribution-graph.svg?game=galaga"/>
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BilalChisti12/BilalChisti12/pacman-output/galaga-contribution-graph.svg?game=galaga"/>
-  </picture>
-</div>
 
 <div data-importer="stats" align="center">
   <br/>
