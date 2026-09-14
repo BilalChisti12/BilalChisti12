@@ -57,7 +57,7 @@ I'm a final year **Computer Science and Engineering student** passionate about b
 
 <br/>
 
-<h2 align="center">🧩 Problem Solving</h2>
+<h2 align="center">LeetCode</h2>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/GV2023006647?theme=transparent&font=Sanchez&colors=%230d1117%2C%23ffffff%2C%20%23ffffff&ext=heatmap" alt="LeetCode Stats" width="500" />
